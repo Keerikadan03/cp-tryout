@@ -1,0 +1,7 @@
+12 is special case
+if am then 00
+if pm then 12 itself
+
+for am its the same number itself
+for pm it is the same number +12
+09:05:00PM
